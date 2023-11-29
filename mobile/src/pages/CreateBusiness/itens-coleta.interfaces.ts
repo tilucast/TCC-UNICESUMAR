@@ -4,7 +4,8 @@ type IconName =
   | "newspaper"
   | "calculator"
   | "food"
-  | "oil";
+  | "oil"
+  | "trash-can";
 
 interface Item {
   name: IconName;
