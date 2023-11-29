@@ -7,6 +7,7 @@ const items: Item[] = [
   { name: "food", title: "Resíduos orgânicos", id: 4 },
   { name: "calculator", title: "Lixo eletrônico", id: 5 },
   { name: "lava-lamp", title: "Lâmpadas", id: 6 },
+  { name: "trash-can", title: "Entulhos", id: 7 },
 ];
 
 export { items };
